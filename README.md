@@ -1,3 +1,10 @@
+<a>![](img/vid.gif)</a>
+
+
+_______
+
+Note : J'ai réalisé ce tp en équipe à l'IUT en 3h selon ces consignes. Puis je l'ai refait sur mon git perso. 
+
 # Modèle Vue Contrôleur en équipe
 
 Dans ce TP, nous allons revoir le MVC, mais cette fois en équipe, 
