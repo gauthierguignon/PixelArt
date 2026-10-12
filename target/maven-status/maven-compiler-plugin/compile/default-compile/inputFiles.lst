@@ -1,0 +1,6 @@
+/home/gauthier/mvc-equipe-pixelart-forky/src/main/java/fr/univlille/iut/r304/pixelart/modele/DessinPixel.java
+/home/gauthier/mvc-equipe-pixelart-forky/src/main/java/fr/univlille/iut/r304/pixelart/vue/DessinPixelVue.java
+/home/gauthier/mvc-equipe-pixelart-forky/src/main/java/fr/univlille/iut/r304/pixelart/controleur/DessinPixelControleur.java
+/home/gauthier/mvc-equipe-pixelart-forky/src/main/java/fr/univlille/iut/r304/pixelart/modele/CouleurPixel.java
+/home/gauthier/mvc-equipe-pixelart-forky/src/main/java/fr/univlille/iut/r304/pixelart/vue/DessinPixelObservateur.java
+/home/gauthier/mvc-equipe-pixelart-forky/src/main/java/fr/univlille/iut/r304/pixelart/App.java

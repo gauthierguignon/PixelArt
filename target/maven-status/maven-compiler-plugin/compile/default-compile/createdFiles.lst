@@ -1,0 +1,6 @@
+fr/univlille/iut/r304/pixelart/modele/DessinPixel.class
+fr/univlille/iut/r304/pixelart/modele/CouleurPixel.class
+fr/univlille/iut/r304/pixelart/vue/DessinPixelVue.class
+fr/univlille/iut/r304/pixelart/App.class
+fr/univlille/iut/r304/pixelart/controleur/DessinPixelControleur.class
+fr/univlille/iut/r304/pixelart/vue/DessinPixelObservateur.class
